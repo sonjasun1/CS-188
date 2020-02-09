@@ -1,0 +1,6 @@
+echo "# CS-188" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/sonjasun1/CS-188.git
+git push -u origin master
