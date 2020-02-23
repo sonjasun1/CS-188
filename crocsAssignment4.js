@@ -6,6 +6,21 @@ const item = (
 	size: 'Medium' , 
 );
 
+
+const firstName = "Jason";
+const lastName = "Bradley";
+//const customerId: 52200d8d-87b6-42e6-8906-a9972986dc9f
+
+const customer = {
+	firstName, 
+	lastName,
+	email : '$(firstName.toLowerCase*()}.$(LastName.toLowerCase()}@drake.edu, 
+	phoneNumber: '+15155555555')'
+};
+
+console.log('item', item);
+console.log('customer', customer);
+
  const Hapi = require('@hapi/hapi');
  const uuid = require('uuid');
 
