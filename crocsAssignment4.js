@@ -1,26 +1,3 @@
-const item = (
-	itemId: 'def5cd03-7bf4-49e9-8f0b-380f90c86ec1'
-    name: "Drake Bulldogs Sweatshirt"
-    description: "Get comfortable in these sweats and look fly while wearing them" ,
-    price: 19.99 ,
-	size: 'Medium' , 
-);
-
-
-const firstName = "Jason";
-const lastName = "Bradley";
-//const customerId: 52200d8d-87b6-42e6-8906-a9972986dc9f
-
-const customer = {
-	firstName, 
-	lastName,
-	email : '$(firstName.toLowerCase*()}.$(LastName.toLowerCase()}@drake.edu, 
-	phoneNumber: '+15155555555')'
-};
-
-console.log('item', item);
-console.log('customer', customer);
-
  const Hapi = require('@hapi/hapi');
  const uuid = require('uuid');
 
